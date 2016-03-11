@@ -1,0 +1,28 @@
+name: Ryan Shippy
+favicon: null
+layout_spectrum: 0.0999930826947093
+typography_spectrum: 0.07268462865613401
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.40486605395562947
+  lightness: 0.6719398749992251
+  saturation: 0.11809300584718585
+  rhythmicContrast: 0.30732812848873436
+purpose: []
