@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Ryan Shippy]]></title>
         <description><![CDATA[Ryan Shippy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.ryanshippy.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 05:27:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 05:56:15 GMT</lastBuildDate>
+        <atom:link href="http://www.ryanshippy.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined49233818-8622-49f2-a6c9-cfff839b4aa0/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c5c3c0c-aa08-40c3-bbae-7b294968a525.jpg">]]></description>
+            <link>http://www.ryanshippy.com/ba903cfb-c40a-4b73-bf8a-ceaf4d841e46/index.html</link>
+            <guid isPermaLink="false">ba903cfb-c40a-4b73-bf8a-ceaf4d841e46</guid>
+            <pubDate>Fri, 11 Mar 2016 05:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Trying to build a website that doesn't suck.</p>]]></description>
+            <link>http://www.ryanshippy.com/49233818-8622-49f2-a6c9-cfff839b4aa0/index.html</link>
             <guid isPermaLink="false">49233818-8622-49f2-a6c9-cfff839b4aa0</guid>
             <pubDate>Fri, 11 Mar 2016 05:27:02 GMT</pubDate>
         </item>
